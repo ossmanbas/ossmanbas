@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Hastane_Projesi**
 
-- 🌱 I’m currently learning **Frameworks , C# OOP , JavaScript , React**
+- 🌱 I’m currently learning **C# OOP , JavaScript , React**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
