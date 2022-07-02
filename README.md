@@ -9,15 +9,15 @@
 
 
 
-- 🔭 I’m currently working on **Quiz_App**
+- 🔭 I’m currently working on **Hyper Casual Games**
 
-- 🌱 I’m currently learning **C# OOP , JavaScript , React-Native**
+- 🌱 I’m currently learning **Unity**
 
 - 👯 I’m looking to collaborate on **Nothing**
 
-- 🤝 I’m looking for help with **React-Native**
+- 🤝 I’m looking for help with **Unity**
 
-- 💬 Ask me about **Javascript , C#**
+- 💬 Ask me about **Javascript , C#, SQL**
 
 - 📫 How to reach me **osmanbastr12@gmail.com**
 
